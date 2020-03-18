@@ -1,57 +1,14 @@
-#header {
-    margin-top: 17%;
-    margin-bottom: auto;
-    height: 17%;
-}
-
-#quiz-description {
-    margin-top: 5%;
-}
 #timer {
-    margin-top: 3%;
+	text-align: right;
+	margin-right: 30px;
 }
-#quizContainer {
-    margin-top: 20%;
-}
-
 .jumbotron {
-    height: 500%;
-}
-#ab {
-    position: relative;
-}
-#cd {
-    position: relative;
-    margin-top: 20px;
-}
-section {
-    height: 30%;
-}
-.btn {
-    width: 100%;
-    margin: 2%;
-    align-content: center;
-    color: seashell;
-    background-color:  rgb(147, 112, 219);
-}
-.btn:hover {
-    background-color: #46218f;
-    color: snow;
+	margin-top: 20%;
 }
 .header {
-    margin-top: 10%;
-}
-li {
-    background-color: #cce5ff;
-    margin: 5px;
+	margin-top: 1%;
 }
 
-
-
-
-.progress {
-    margin-top: 25%;
-}
-#resultspage {
-    margin-top: 12%;
+#leaderboardbtn {
+	margin-left: 40px;
 }
